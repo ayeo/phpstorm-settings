@@ -1,8 +1,8 @@
 <code_scheme name="Default (1)">
   <option name="LINE_SEPARATOR" value="&#13;&#10;" />
-  <MultiMarkdownCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
-  </MultiMarkdownCodeStyleSettings>
+  </MarkdownNavigatorCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
