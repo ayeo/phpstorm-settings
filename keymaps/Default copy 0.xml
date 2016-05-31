@@ -3,4 +3,9 @@
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic" />
 </keymap>
