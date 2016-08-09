@@ -9,5 +9,6 @@
     <entry key="ide.debugger.inline" value="false" />
     <entry key="ide.tooltip.initialDelay" value="206" />
     <entry key="dumb.aware.run.configurations" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
