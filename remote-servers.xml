@@ -1,8 +1,9 @@
 <application>
   <component name="RemoteServers">
     <remote-server name="Docker" type="docker">
-      <configuration email="">
+      <configuration>
         <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+        <option name="composeExecPath" value="$USER_HOME$/www/kalafior/docker-compose/docker-compose.yml" />
       </configuration>
     </remote-server>
   </component>
