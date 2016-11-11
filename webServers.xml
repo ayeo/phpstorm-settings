@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="4bfd790f-d143-4681-a73f-18241e3d8266" name="Test" url="http://komex.ticket/">
-        <fileTransfer mountedRoot="$USER_HOME$/www/ticket/komex" accessType="MOUNT" />
-      </webServer>
-    </option>
-  </component>
-</application>
