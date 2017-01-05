@@ -5,5 +5,21 @@
         <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
       </configuration>
     </remote-server>
+    <remote-server name="Docker2" type="docker">
+      <configuration>
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker3" type="docker">
+      <configuration>
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker4" type="docker">
+      <configuration>
+        <option name="apiUrl" value="https://registry.hub.docker.com:2376" />
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+      </configuration>
+    </remote-server>
   </component>
 </application>

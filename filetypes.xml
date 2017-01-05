@@ -1,18 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern=".travis" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="keepMe" type="PLAIN_TEXT" />
-      <mapping pattern="02_Serwisy.md" type="PLAIN_TEXT" />
-      <mapping pattern="d" type="PLAIN_TEXT" />
-      <mapping pattern="aa" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="xlf" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="afm" type="PLAIN_TEXT" />
+      <mapping pattern="cron" type="PLAIN_TEXT" />
+      <mapping pattern="phpunit" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
