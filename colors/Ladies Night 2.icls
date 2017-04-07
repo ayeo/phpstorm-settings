@@ -1,4 +1,5 @@
 <scheme name="Ladies Night 2" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="CONSOLE_FONT_NAME" value="Droid Sans Mono Dotted for Powerline" />
@@ -510,6 +511,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="a1a1a1" />
+        <option name="BACKGROUND" value="636363" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
