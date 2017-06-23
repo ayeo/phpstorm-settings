@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="sniffer2" type="PHP" />
       <mapping pattern="sniffer" type="PLAIN_TEXT" />
+      <mapping ext="nvm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
