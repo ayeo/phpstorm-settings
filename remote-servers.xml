@@ -21,5 +21,16 @@
         <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
       </configuration>
     </remote-server>
+    <remote-server name="Docker5" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+      </configuration>
+    </remote-server>
+    <remote-server name="PHPUnit" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" value="$USER_HOME$/www/elilu-docker/docker-compose" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
