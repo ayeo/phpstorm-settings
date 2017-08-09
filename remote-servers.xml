@@ -21,5 +21,10 @@
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
       </configuration>
     </remote-server>
+    <remote-server name="PHOUNIT2" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
