@@ -13,7 +13,7 @@
     <interpreters>
       <interpreter home="/usr/bin/php" id="d9e7c7b7-7c15-4c8a-b6c8-11e6c9c1f535" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
       <interpreter home="docker://portus.2.cloud.mns.pl:5000/isklep/php56:v1//usr/bin/php" id="208a1aa1-b540-4698-8bd4-44937b613301" name="xdebug" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="portus.2.cloud.mns.pl:5000/isklep/php56:v1" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data DOCKER_ACCOUNT_NAME="PHPUnit" DOCKER_IMAGE_NAME="portus.2.cloud.mns.pl:5000/isklep/php56:v1" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
