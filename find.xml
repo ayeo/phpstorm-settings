@@ -22,6 +22,7 @@
       <mask>*.t</mask>
       <mask>*.tp</mask>
       <mask>*.tpl</mask>
+      <mask>d</mask>
     </recentFileMasks>
   </component>
 </application>
