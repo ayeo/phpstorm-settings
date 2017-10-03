@@ -15,15 +15,15 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.t</mask>
-      <mask>*.tp</mask>
-      <mask>*.tpl</mask>
       <mask>d</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.t</mask>
+      <mask>*.tp</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
