@@ -4,6 +4,7 @@
       <mapping pattern="sniffer2" type="PHP" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="trigger-elilu" type="PLAIN_TEXT" />
       <mapping pattern="sniffer" type="PLAIN_TEXT" />
       <mapping ext="nvm" type="PLAIN_TEXT" />
     </extensionMap>
