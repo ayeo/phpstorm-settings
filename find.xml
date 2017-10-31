@@ -18,12 +18,13 @@
       <mask>d</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.t</mask>
       <mask>*.tp</mask>
       <mask>*.tpl</mask>
+      <mask>*.p</mask>
+      <mask>*.pl</mask>
     </recentFileMasks>
   </component>
 </application>
