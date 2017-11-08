@@ -1,10 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="sniffer2" type="PHP" />
-      <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern="sniffer" type="PLAIN_TEXT" />
-      <mapping ext="nvm" type="PLAIN_TEXT" />
+      <mapping pattern="init-namespace" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
