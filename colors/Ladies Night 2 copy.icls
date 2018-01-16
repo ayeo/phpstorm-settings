@@ -1,7 +1,4 @@
-<scheme name="Ladies Night 2" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+<scheme name="Ladies Night 2 copy" version="142" parent_scheme="Default">
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -207,7 +204,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="85b5c7" />
+        <option name="FOREGROUND" value="c794bc" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -258,7 +255,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="d0d7a0" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -293,7 +290,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="e784a2" />
+        <option name="FOREGROUND" value="73b6e7" />
         <option name="BACKGROUND" value="21282d" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -363,7 +360,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="4cd656" />
+        <option name="FOREGROUND" value="9eccd6" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -576,6 +573,16 @@
     <option name="PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
+      </value>
+    </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="a5db7a" />
+      </value>
+    </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="b39cd6" />
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
