@@ -1,0 +1,56 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="PhpDockerContainerSettings">
+        <list>
+          <map>
+            <entry key="3d20e5c9-b094-4b18-8845-1abe7f57bdd9">
+              <value>
+                <DockerContainerSettings>
+                  <option name="version" value="1" />
+                  <option name="volumeBindings">
+                    <list>
+                      <DockerVolumeBindingImpl>
+                        <option name="containerPath" value="/opt/project" />
+                      </DockerVolumeBindingImpl>
+                    </list>
+                  </option>
+                </DockerContainerSettings>
+              </value>
+            </entry>
+            <entry key="9934e0c9-b919-4b42-89d0-1f2a40d52c62">
+              <value>
+                <DockerContainerSettings>
+                  <option name="version" value="1" />
+                  <option name="volumeBindings">
+                    <list>
+                      <DockerVolumeBindingImpl>
+                        <option name="containerPath" value="/opt/project" />
+                      </DockerVolumeBindingImpl>
+                    </list>
+                  </option>
+                </DockerContainerSettings>
+              </value>
+            </entry>
+          </map>
+        </list>
+      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Remote PHP" />
+      <component name="PropertiesComponent">
+        <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
