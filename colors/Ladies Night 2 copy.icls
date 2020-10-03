@@ -1,4 +1,8 @@
 <scheme name="Ladies Night 2 copy" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
@@ -564,6 +568,11 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="e0e0e" />
+      </value>
+    </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="e7b5e3" />
@@ -705,7 +714,7 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="867f27" />
+        <option name="EFFECT_COLOR" value="3c3f41" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -724,8 +733,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="efff8d" />
-        <option name="ERROR_STRIPE_COLOR" value="e3bf20" />
+        <option name="EFFECT_COLOR" value="3e4b54" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>

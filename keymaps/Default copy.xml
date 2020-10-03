@@ -1,36 +1,14 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
   </action>
-  <action id="CollapseAll">
-    <keyboard-shortcut first-keystroke="meta subtract" />
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
-  <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="meta subtract" />
+  <action id="GotoPreviousBookmark">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
-  <action id="EditorDecreaseFontSize">
-    <keyboard-shortcut first-keystroke="meta minus" />
-  </action>
-  <action id="EditorIncreaseFontSize">
-    <keyboard-shortcut first-keystroke="meta equals" />
-  </action>
-  <action id="ExpandAll">
-    <keyboard-shortcut first-keystroke="meta add" />
-  </action>
-  <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="meta add" />
-  </action>
-  <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="meta f12" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-  <action id="Images.Editor.ZoomIn">
-    <keyboard-shortcut first-keystroke="meta add" />
-  </action>
-  <action id="Images.Editor.ZoomOut">
-    <keyboard-shortcut first-keystroke="meta subtract" />
-  </action>
-  <action id="QuickChangeScheme" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
