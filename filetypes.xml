@@ -1,9 +1,9 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="sniffer2" type="PHP" />
-      <mapping pattern="htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="sniffer" type="PLAIN_TEXT" />
+      <mapping pattern="htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="build-demo-conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
